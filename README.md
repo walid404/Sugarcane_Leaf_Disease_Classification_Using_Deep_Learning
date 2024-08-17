@@ -1,0 +1,2 @@
+# Sugarcane_Leaf_Disease_Classification_Using_Deep_Learning
+In this repo I am implementing one of the papers at the book Advanced Communication and Intelligence System which is Sugarcane Leaf Disease Classification Using Deep Learning , As its name, It aimes to classify Sugarcane Leaf Diseases using Deep learning models like InceptionV3, LeNet, VGG16, EfficientNet, Xception, DenseNet169, and DenseNet201.
