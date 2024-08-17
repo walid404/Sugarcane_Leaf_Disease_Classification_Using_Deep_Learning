@@ -15,10 +15,11 @@ I trained all models for 100 epochs, with early stopping triggered if validation
 
 The results of my experiments outperformed those reported in the original paper by around 3%. While the paper’s top accuracy, achieved with a customized VGG16, was **94.47%**, my best result came from a customized Xception model, which achieved an impressive accuracy of **97.77%**.
 
----
-
-Feel free to explore the code and experiments in this repository. Contributions and feedback are welcome!
 
 ## All Models Results
 
 ![Models Results](https://github.com/user-attachments/assets/52081396-f473-4a9d-9863-a0adce1122c6)
+
+---
+
+Feel free to explore the code and experiments in this repository. Contributions and feedback are welcome!
